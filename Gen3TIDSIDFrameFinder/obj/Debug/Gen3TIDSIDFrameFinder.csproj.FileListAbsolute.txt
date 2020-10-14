@@ -45,3 +45,13 @@ D:\Desktop\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrame
 D:\Desktop\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.csproj.CoreCompileInputs.cache
 D:\Desktop\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.exe
 D:\Desktop\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.pdb
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.csprojAssemblyReference.cache
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.FrameFinder.resources
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.csproj.GenerateResource.cache
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.exe
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.pdb
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.Properties.Resources.resources
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\obj\Debug\Gen3TIDSIDFrameFinder.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\bin\Debug\Gen3TIDSIDFrameFinder.exe.config
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\bin\Debug\Gen3TIDSIDFrameFinder.exe
+D:\Documents\GitHub\Gen3TIDSIDFrameFinder\Gen3TIDSIDFrameFinder\bin\Debug\Gen3TIDSIDFrameFinder.pdb
