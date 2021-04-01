@@ -8,7 +8,7 @@ This is a tool for TID/SID emulator-based RNG manipulation on the following 3rd 
 * Colosseum
 * XD: Gale of Darkness
 
-## Acknowledgements
+## Credits
 
 This tool was an idea of [Real96](https://github.com/Real96/) who modified the original project.
 
