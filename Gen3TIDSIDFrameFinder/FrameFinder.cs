@@ -237,15 +237,6 @@ namespace Gen3TIDSIDFrameFinder
                     {
                         sid = GetHighShortSeed(GetNextSeedGC(tid));
 
-                        uint shinypidseed = tid;
-                        for (int i = 0; i < 7; i++)
-                        {
-                            shinypidseed = GetNextSeedGC(shinypidseed);
-                        }
-
-                        string hexpid = GetHighShortSeed(shinypidseed).ToString("X") + GetHighShortSeed(GetNextSeedGC(shinypidseed)).ToString("X");
-                        uint.TryParse(hexpid, NumberStyles.HexNumber, CultureInfo.InvariantCulture, out pid);
-
                         if (IsShiny(GetHighShortSeed(tid), sid, pid))
                         {
                             printBackSeed(tid, sid);
